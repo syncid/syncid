@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/📍%20Jakarta%2C%20Indonesia-Open%20to%20work-2ea44f?style=for-the-badge" alt="Jakarta, Indonesia — Open to work" />
+<img src="https://img.shields.io/badge/📍%20Jakarta%2C%20Indonesia-Siap%20Berkolaborasi-2ea44f?style=for-badge" alt="Jakarta, Indonesia — Siap Berkolaborasi" />
 
 # S Ramlan 👋
 
@@ -89,7 +89,7 @@ Semua detail ada di **[portofolio](https://syahrulramlan.vercel.app/#projects)**
 
 ### 🤝 Kolaborasi
 
-Saat ini terbuka untuk peluang kerja dan kolaborasi di bidang IT Support, IoT, dan Web Development. Saya tertarik pada masalah teknis nyata — mulai dari diagnosa sistem hingga membangun antarmuka pemantauannya.
+Silakan menghubungi saya untuk topik IT Support, IoT, atau Web Development. Fokus pada masalah teknis nyata — mulai dari diagnosa sistem hingga membangun antarmuka pemantauan. Saya tertarik pada masalah teknis nyata — mulai dari diagnosa sistem hingga membangun antarmuka pemantauannya.
 
 ### 📫 Kontak
 
