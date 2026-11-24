@@ -1,58 +1,49 @@
-<!-- Banner / Header -->
-<h1 align="center">Hi👋</h1>
-<h3 align="center">💻 Passionate Developer | 🚀 Open Source Enthusiast</h3>
+<div align="center">
 
----
+# Syahrul Ramlan 👋
 
-<!-- Dark theme badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Code-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+**Full-stack developer · self-hosting · AI tooling**
+
+Saya bangun web app dan alat otomasi yang benar-benar dipakai —
+bukan sekadar koleksi tutorial.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
-
-<!-- About Me -->
-### 🧑‍💻 About Me
-- 🔭 I’m currently working on **cool open-source projects**
-- 🌱 I’m currently learning **Cloud, DevOps, and AI**
-- 👯 I’m looking to collaborate on **modern web apps & automation tools**
-- 💬 Ask me about **JavaScript, Python, Backend, APIs**
-- ⚡ Fun fact: I code better in **dark mode** 🌑
+</div>
 
 ---
 
-<!-- GitHub Stats with dark theme -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syncid&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
+### 🛠 Fokus
+
+- **Web & API** — React / Next.js di frontend, Node, Python, dan PHP di backend, MySQL / Supabase untuk data.
+- **Infra rumahan** — satu mini server, Tailscale, layanan self-hosted, reverse proxy, SEO teknis.
+- **AI & agent** — Hermes, 9Router, dan automation yang terhubung ke Telegram.
+
+### 🚧 Sedang dibangun
+
+- **el-tahfidh** — situs statis profil, PSB, berita, artikel + plugin WordPress Booking Survei.
+- **Fullstack-E-Commerse** — eksperimen e-commerce berbasis TypeScript.
+- **porto** — portofolio pribadi.
+
+### 🤝 Kolaborasi
+
+Saya terbuka untuk web app, automation, dan tooling self-hosted.
+Kalau ada masalah teknis yang nyata, saya tertarik mengatasinya.
+
+### 📫 Kontak
+
+Email — idsyhl@gmail.com
 
 ---
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncid&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- Contact -->
-### 📫 How to reach me:
-<p align="left">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">💡 Always exploring, always learning, always building 💡</p>
+<p align="center">Konsisten lebih penting daripada sempurna.</p>
