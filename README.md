@@ -41,6 +41,19 @@ Spesialis IT Support dengan fokus kuat pada analisis hardware dan software. Berp
 
 ---
 
+### 🤖 AI & Tooling
+
+Di luar pekerjaan IT Support, saya merakit dan mengelola stack AI sendiri:
+
+- **9Router** — router model terpusat untuk beberapa provider sekaligus, diakses lewat tunnel SSH dan Tailscale dari satu mini server.
+- **Hermes Agent** — asisten agentik multi-profil dengan 139 skill terpasang dan server MCP aktif: Context7, DeepWiki, Wolfram, dan Vercel.
+- **Provider & routing** — konfigurasi lintas backend: freellmapi lokal, Token Harbor, Jerouter, OpenRouter, dan Nous, dengan rantai fallback.
+- **Telegram gateway** — agent yang bisa dipanggil lewat Telegram, lengkap dengan monitoring kesehatan stack dan notifikasi otomatis.
+
+Prinsipnya sama seperti bagian lain: alat yang benar-benar dipakai sehari-hari, bukan sekadar daftar nama.
+
+---
+
 ### 🚀 Proyek & Studi Kasus
 
 **elTAHFIDH** — Website pesantren: profil, PSB, berita, dan artikel, plus plugin WordPress Booking Survei. [Live site](https://eltahfidh.or.id/)
