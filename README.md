@@ -89,7 +89,7 @@ Semua detail ada di **[portofolio](https://syahrulramlan.vercel.app/#projects)**
 
 ### 🤝 Kolaborasi
 
-Silakan menghubungi saya untuk topik IT Support, IoT, atau Web Development. Fokus pada masalah teknis nyata — mulai dari diagnosa sistem hingga membangun antarmuka pemantauan. Saya tertarik pada masalah teknis nyata — mulai dari diagnosa sistem hingga membangun antarmuka pemantauannya.
+Silakan menghubungi saya untuk topik IT Support, IoT, atau Web Development. Fokus pada masalah teknis nyata — dari diagnosa sistem hingga membangun antarmuka pemantauan.
 
 ### 📫 Kontak
 
