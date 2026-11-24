@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/📍%20Jakarta%2C%20Indonesia-Available%20for%20Work-2ea44f?style=for-badge" alt="Jakarta, Indonesia — Available for Work" />
+<img src="https://img.shields.io/badge/📍%20Jakarta%2C%20Indonesia-2ea44f?style=for-badge" alt="Jakarta, Indonesia" />
 
 # S Ramlan 👋
 
