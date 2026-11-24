@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/📍%20Jakarta%2C%20Indonesia-2ea44f?style=for-badge" alt="Jakarta, Indonesia" />
+<img src="https://img.shields.io/badge/S_Ramlan-2ea44f?style=for-badge&logo=github" alt="S Ramlan" />
 
 # S Ramlan 👋
 
@@ -91,7 +91,7 @@ Available for IT Support, IoT, or Web Development work. Focus on real technical 
 
 ### 📫 Kontak
 
-[Portfolio](https://syahrulramlan.vercel.app) · Email: sahroel.ramlan@gmail.com · WhatsApp: 0812-9244-7465 · Jakarta, Indonesia
+[Portfolio](https://syahrulramlan.vercel.app) · Email: sahroel.ramlan@gmail.com · WhatsApp: 0812-9244-7465
 
 ---
 
