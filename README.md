@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/📍%20Jakarta%2C%20Indonesia-Open%20to%20work-2ea44f?style=for-the-badge" alt="Jakarta, Indonesia — Open to work" />
 
-# Syahrul Ramlan 👋
+# S Ramlan 👋
 
 ### IT Support Specialist · IoT Implementer · Web Developer
 
